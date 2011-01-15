@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="gitorious"
+		 fetch="git://gitorious.org" />
+	 <default revision="master" remote="gitorious" />
+
+	 <project path="device/htc/nexusone" name="meego-porting/nexusone" />
+	 <project path="device/toshiba/ac100" name="meego-porting/ac100" />
+</manifest>
